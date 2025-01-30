@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badushapn&label=Profile%20views&color=0e75b6&style=flat" alt="badushapn" /> </p>
 
-- 🔭 I’m currently working on [FlowerBae](https://github.com/BadushaPN/FloweBAE-deliverAPP)
+- 🔭 I’m currently working at [Team Tweaks Technologies Pvt Ltd](https://www.teamtweaks.com/)
 
 - 🌱 I’m currently focusing on **clean architecture (TDD) and DSA**
 
