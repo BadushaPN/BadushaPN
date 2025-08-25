@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/badushapn)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flowerbae-admin.appspot.com/o/images%2FScreenshot%202025-08-25%20181143.png?alt=media&token=2ee73e20-a2e3-4d2f-8182-8c6bb15b005f)](https://github.com/badushapn)
 
 <h1 align="center">Hi 👋, I'm Badusha P N</h1>
 <h3 align="center">Self-taught Software Developer | 2+ years Flutter experience | Exploring DSA & C++</h3>
