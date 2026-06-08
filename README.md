@@ -1,56 +1,64 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flowerbae-admin.appspot.com/o/images%2FScreenshot%202025-08-25%20181143.png?alt=media&token=2ee73e20-a2e3-4d2f-8182-8c6bb15b005f)](https://github.com/badushapn)
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flowerbae-admin.appspot.com/o/images%2FScreenshot%202025-08-25%20181143.png?alt=media&token=2ee73e20-a2e3-4d2f-8182-8c6bb15b005f" width="100%" alt="banner"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Badusha P N</h1>
-<h3 align="center">Self-taught Software Developer | 2+ years Flutter experience | Exploring DSA & C++</h3>
+<h1 align="center">Hey, I'm Badusha P N 👋</h1>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=badushapn&label=Profile%20views&color=0e75b6&style=flat" alt="badushapn" /> 
+<p align="center">
+  <strong>Flutter Developer → Full-Stack Engineer in Progress</strong><br/>
+  Building production apps by day · Grinding DSA & system design by night
 </p>
 
-- 🔭 Currently working at **[Team Tweaks Technologies Pvt Ltd](https://www.teamtweaks.com/)**  
-- 🌱 Focused on **Data Structures & Algorithms (C++)** and **clean Flutter architecture (TDD)**  
-- 💬 Ask me about **Flutter, Firebase, API Integration, Dio, Android, iOS, Flutter Web**  
-- 📫 Reach me at **badushapn4@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badushapn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🧭 What I'm About
+
+- 🚀 **2+ years** shipping Flutter apps in production (Android, iOS, Web)
+- 🧠 Currently deepening skills in **DSA (C++)**, **Java backend**, and **clean architecture**
+- 🔨 Building [**WeddingSnap**](https://github.com/badushapn) — a QR-based wedding photo collection platform (Flutter + Firebase)
+- 📐 Practicing **TDD**, **BLoC**, and **SOLID principles** to write maintainable, scalable code
+- 📫 Reach me: **badushapn4@gmail.com**
+
+---
+
+## 🌐 Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/badushapn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badusha p n" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">⚒️ Languages & Tools:</h3>
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <a href="https://linkedin.com/in/badushapn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## ⚒️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badushapn&show_icons=true&locale=en&layout=compact" alt="badushapn" /></p>
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badushapn&show_icons=true&locale=en" alt="badushapn" /></p>
+### ☁️ Backend & Services
+<p>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badushapn&" alt="badushapn" /></p>
+### 🧮 CS Foundations
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+</p>
+
+---
+
+## 🧩 What I'm Working Toward
