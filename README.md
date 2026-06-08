@@ -62,3 +62,23 @@
 ---
 
 ## 🧩 What I'm Working Toward
+
+Flutter (production) ──────────────── ✅ Strong
+DSA & Problem Solving ─────────────── 🔄 Active grind
+Java Backend ──────────────────────── 🔄 In progress
+System Design ─────────────────────── 📖 Studying
+Clean Architecture / TDD ─────────── 🔄 Practicin
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badushapn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs"/>
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badushapn&show_icons=true&locale=en&theme=tokyonight" alt="github stats"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badushapn&theme=tokyonight" alt="streak"/>
+</p>
