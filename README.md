@@ -64,10 +64,15 @@
 ## 🧩 What I'm Working Toward
 
 Flutter (production) ──────────────── ✅ Strong
+
 DSA & Problem Solving ─────────────── 🔄 Active grind
+
 Java Backend ──────────────────────── 🔄 In progress
+
 System Design ─────────────────────── 📖 Studying
+
 Clean Architecture / TDD ─────────── 🔄 Practicin
+
 
 ---
 
